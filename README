@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1028
+
+This script easily colors errors and warnings in the output of a make / gcc call.
+It's syntax matches mixed German/English, which depends on the linux/make/gcc installation.
+
